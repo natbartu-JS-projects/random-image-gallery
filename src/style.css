@@ -34,4 +34,5 @@ body {
   height: 300px;
   width: 300px;
   max-width: 100%;
+  border-radius: 10px;
 }
